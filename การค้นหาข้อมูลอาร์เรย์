@@ -1,0 +1,9 @@
++searching(in theArray:arrayType,in KeySearch:keyType,in MaxData:integer):boolean
+  for (n = 0 to MaxData-1){
+    if (theArray[n] = KeySearch){
+      Data in found then return true
+  }
+}
+If (n = Max Data-1){
+  Data is not found then return false
+}
